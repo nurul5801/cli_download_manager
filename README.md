@@ -58,8 +58,7 @@ A simple, interactive command-line download manager built with Textual. This app
 
 Here's a screenshot of the application in action:
 
-![Screenshot of Textual Download Manager](https://via.placeholder.com/800x400.png?text=Screenshot+Goes+Here)
-*Please replace this placeholder image URL with an actual screenshot of the running application.*
+![Screenshot of Textual Download Manager](screenshot/cli_download.png)
 
 To run the download manager, execute the Python script:
 
